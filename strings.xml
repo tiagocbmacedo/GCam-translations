@@ -30,4 +30,18 @@
     <string name="pref_frames_8">Low - 8 frames</string>
     <string name="pref_frames_15">Medium - 15 frames</string>
     <string name="pref_frames_25">High - 25 frames</string>
+    <string name="pref_manual_option_title">Manual options</string>
+    <string name="pref_manual_mode_title">Manual mode</string>
+    <string name="pref_manual_mode_summary">Enable manual mode</string>
+    <string name="pref_shutter_title">Manual Exposure Control</string>
+    <string name="pref_shutter_summary">Enable manual shutter speed slider</string>
+    <string name="pref_iso_title">Manual ISO Control</string>
+    <string name="pref_iso_summary">Enable manual sensitivity slider (EXPERIMENTAL)</string>
+    <string name="pref_black_white_title">Monochrome</string>
+    <string name="pref_black_white_summary">If enabled, photos will be black and white</string>
+    <string name="pref_ehn_awb_title">Pixel AWB in HDR+ Enhanced</string>
+    <string name="pref_screen_manual_focus_summary">Enable the 2nd and the 3rd lens</string>
+    <string name="pref_max_tripod_title">Increase Tripod Capture Time</string>
+    <string name="pref_max_tripod_summary">Increases the frame count and the exposure time if steadily mounted</string>
+    <string name="libPicker_title">Custom Libs</string>
 </resources>
