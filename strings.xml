@@ -44,4 +44,11 @@
     <string name="pref_max_tripod_title">Increase Tripod Capture Time</string>
     <string name="pref_max_tripod_summary">Increases the frame count and the exposure time if steadily mounted</string>
     <string name="libPicker_title">Custom Libs</string>
+    <string name="pref_version">Info</string>
+    <string name="pref_author">GCam 6.2.030 by Urnyx05</string>
+    <string name="pref_base">Based on the Google Camera version</string>
+    <string name="pref_version_number">Version : 2.3</string>
+    <string name="pref_credit">This version was built by all these devs</string>
+    <string name="pref_check_version">Check For Version</string>
+    <string name="pref_update">Check for updates and changelog</string>
 </resources>
