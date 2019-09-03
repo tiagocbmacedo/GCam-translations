@@ -51,4 +51,6 @@
     <string name="pref_credit">This version was built by all these devs</string>
     <string name="pref_check_version">Check For Version</string>
     <string name="pref_update">Check for updates and changelog</string>
+    <string name="pref_maxbright_title">Maximum screen brightness</string>
+    <string name="pref_maxbright_summary">It increases screen brightness at maximum to improve visualization in sunlight</string>
 </resources>
